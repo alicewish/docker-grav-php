@@ -1,4 +1,4 @@
-FROM php:php:7.4.3-fpm-buster
+FROM php:7.4.3-fpm-buster
 LABEL maintainer="anywaywillgo <anywaywillgo@gmail.com> (@anywaywillgo)"
 
 # Install dependencies
